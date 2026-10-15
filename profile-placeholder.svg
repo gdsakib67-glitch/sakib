@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820">
+  <defs>
+    <linearGradient id="bg" x2=".9" y2="1"><stop stop-color="#17132a"/><stop offset=".58" stop-color="#20213b"/><stop offset="1" stop-color="#10121e"/></linearGradient>
+    <linearGradient id="beam" x2="1" y2="1"><stop stop-color="#a988fa" stop-opacity=".7"/><stop offset="1" stop-color="#69dffa" stop-opacity=".08"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7658be" stop-opacity=".45"/><stop offset="1" stop-color="#7658be" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="700" height="820" fill="url(#bg)"/>
+  <circle cx="367" cy="323" r="280" fill="url(#halo)"/>
+  <path d="M0 160h700M0 200h700M0 240h700M0 280h700" stroke="#c5b2ff" stroke-opacity=".06"/>
+  <path d="M0 610h700M0 650h700M0 690h700M0 730h700" stroke="#88e2fa" stroke-opacity=".08"/>
+  <path d="M80 0v820M140 0v820M560 0v820M620 0v820" stroke="#c5b2ff" stroke-opacity=".045"/>
+  <path d="M100 820c24-198 124-304 251-304s227 106 249 304" fill="#19172c" stroke="url(#beam)" stroke-width="2"/>
+  <path d="M243 331c0-90 48-150 111-150s111 60 111 150v57c0 89-48 146-111 146s-111-57-111-146z" fill="#242139" stroke="#b8a0f6" stroke-opacity=".56" stroke-width="2"/>
+  <path d="M247 304c19-110 72-149 145-130 47 12 69 49 76 112-32-23-67-43-118-45-28 28-63 47-103 63z" fill="#36304f" stroke="#8b7ac2" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M210 579c31-75 81-113 144-113s112 38 143 113" fill="none" stroke="#7bdcf4" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="350" cy="365" r="138" fill="none" stroke="#a78bfa" stroke-opacity=".23"/>
+  <circle cx="350" cy="365" r="168" fill="none" stroke="#68dfff" stroke-opacity=".1" stroke-dasharray="3 12"/>
+  <path d="M67 78h48m-48 0v48m566-48h-48m48 0v48M67 742h48m-48 0v-48m566 48h-48m48 0v-48" fill="none" stroke="#78def5" stroke-opacity=".65" stroke-width="2"/>
+  <text x="350" y="760" fill="#cabafa" fill-opacity=".73" font-family="monospace" font-size="15" letter-spacing="5" text-anchor="middle">YOUR PROFILE IMAGE</text>
+</svg>
